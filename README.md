@@ -1,4 +1,4 @@
-# ImageJ_color_selection_plugin
+# ImageJ_color_selection_plugins
 
 This repository contains several color selection plugins for ImageJ. They all have the same functionalities but differ in the execution. They work as follows :
 1) The user chooses a reference color
